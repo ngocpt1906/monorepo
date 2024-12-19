@@ -5,14 +5,7 @@
       {
         "name": "next"
       }
-    ],
-    "baseUrl": ".",
-    "paths": {
-      "@/*": [
-        "./*"
-      ]
-    },
-    "moduleResolution": "Bundler"
+    ]
   },
   "include": [
     "**/*.ts",
